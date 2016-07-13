@@ -1,6 +1,8 @@
-#Starting Your Campaign
-----------
-##Determining your Focus
+---
+title: Starting your Campaign
+---
+
+#Determining your Focus
 
 link to [What is ifundIT](what is ifundit.md)
 
@@ -11,13 +13,13 @@ For example, in the 2015 “Spring into Bluemix” campaign, all submitted proje
 As your team begins to outline your first campaign, think carefully about its focus. Consider your organization’s long term objectives – things like new development tools, educational initiatives, or any other strategic goals – and think about how you might be able to incorporate them into your campaign. For example, the focus of IBM’s “Cognitive Build” campaign was on "Cognitive": a key pillar of IBM's strategy. To that end, project submissions were required to incorporate Watson APIs, but also encouraged Agile and Design Thinking methodologies throughout the process. Cognitive Build not only resulted in concrete innovation with Watson, but also a company-wide introduction to Cognitive, giving everyone in the organization a deeper understanding of the concept.
 
 ----------
-##Selecting your Team
+#Selecting your Team
 
 Running a crowdfunding campaign requires a serious investment of time and energy, and a passionate and committed team to make sure it is successful. The ifundIT team has both facilitated and actively managed a number of successful campaigns within IBM – while we’ve advised other organizations on running their own campaigns, we’ve also run some of the biggest ones ourselves. Based on this experience, we’ve distilled the responsibilities and requirements of managing an ifundIT campaign into four key roles, broken down below. All together, they make up the Project Management Office (PMO).
 
 > It’s important to note that these roles are the roles we used within our own company, and as such may not reflect the goal or necessities of your organization. Feel free to adapt, combine, or subdivide these roles to match the scope and budget of your campaign. While each role is relatively distinct, there’s also plenty of room for overlap!
 
-###Campaign Owner
+##Campaign Owner
 
 The Campaign Owner typically makes the decision to run an ifundIT crowdfunding campaign in their business. They define the campaign focus and desired outcome, set the budget requirements, and develop the campaign timeline. In addition, the Campaign Owner coordinates between the Campaign Administrator(s) and the Community Manager to set the overall campaign strategy.
 
@@ -32,7 +34,7 @@ The Campaign Owner’s responsibilities include:
 
 
 
-###Campaign Administrator(s)
+##Campaign Administrator(s)
 
 The Campaign Administrator(s) manages the many logistical and day-to-day requirements of the campaign, including the triage process for new project submissions, as well as the specifics of configuring the ifundIT tool for their organization. They also construct and appoint the Vetting Board, which is responsible for evaluating the feasibility of each submitted project.
 
@@ -46,7 +48,7 @@ The Campaign Administrator’s responsibilities include:
  
 > In our experience managing previous campaigns, we've found that many organizations combine the roles of Campaign Owner and Campaign Administrator and designate a single individual to fulfill the responsibilities of both. While this approach can be effective for smaller campaigns, we recommend keeping the roles separate for campaigns that run longer than 6 weeks or have an audience of more than 10,000 people.
 
-###Vetting Board Members
+##Vetting Board Members
 
 The Members of the Vetting Board are Subject Matter Experts (SMEs) who perform a lightweight evaluation to determine the viability of each new project. The Vetting Board ensures that project submissions do not duplicate existing work, are compliant with any business or campaign guidelines, and are feasible within the established scope and scale of the campaign. Vetting Board Members do not rate projects based on their content or marketability, or decide if they are good or bad (that’s the crowd’s decision!) – rather, they are intended to streamline the flow of innovation and maximize the quantity of deliverable projects.
 
@@ -60,7 +62,7 @@ The Vetting Board Member’s responsibilities include:
  - Identifying non-compliant projects for review by the Campaign Administrator(s)
  - Facilitating a pipeline of healthy ideas during the campaign
 
-###Community Manager
+##Community Manager
 
 The Community Manager is responsible for developing the communication strategy for the entire campaign, and for leading the initiative to inform and promote the campaign with the organization’s intended audience. They design any personalized content for the organization’s instance of ifundIT, ranging from automated system messages to FAQs to landing page greetings. The Community Manager also manages the social aspects of the campaign and its participants, in the form of any online communities associated with the campaign.
 
@@ -71,23 +73,23 @@ The Community Manager’s responsibilities include:
  - Promoting the campaign throughout the organization
  - Managing online communities related to the campaign
 
-# Setting a Budget
+#Setting a Budget
 
-# Selecting your Audience
+#Selecting your Audience
 
-# Choosing a Campaign Mode and Duration
+#Choosing a Campaign Mode and Duration
 
-## Deciding Between Fund2Goal and TopX
+##Deciding Between Fund2Goal and TopX
 
-## Deciding betwee Event-Based and Continuous
+##Deciding betwee Event-Based and Continuous
 
-# Developing a Timeline
+#Developing a Timeline
 
-# Setting Requirements
+#Setting Requirements
 
 After running several ifundIT campaigns across our entire organization, we’ve learned that communicating a clear set of requirements to both innovators and investors is essential to ensure that all stakeholders get what they want out of the campaign. Below, you will find the most recent iteration of our requirements for campaign participants, as well as some information about the experiences that led to their creation.
 
-## Requirements for Innovators
+##Requirements for Innovators
 
 We found varying levels of commitment from innovators during our first IBM wide campaign in 2014. Some innovators were extremely committed to sticking with their ideas from submission to user deployment, but many were not. We found that some people got their ideas funded and then expected us to take over development. Others participated during the development process, but would not be responsive when we asked them to take actions, such as reviewing designs or code. Our team ended up having to make decisions or take actions on behalf of the innovator because they weren’t engaged and were holding up development and other projects. 
 
@@ -101,7 +103,7 @@ Based on our experience, we created the following requirements for the Spring in
 
 If you do not comply with these requirements during the life cycle of your project, you will lose your funding.
 
-## Requirements for Investors
+##Requirements for Investors
 
 During the first campaign, it was easy to get enough people to support your idea and get it funded quickly. But, was the crowd funding the “right” ideas for the business? We saw too many investors putting money down and then walking away, not asking where the apps were that they funded with company money. We wanted to make sure people understood this was real money and that people should be thoughtful in spending.  
 
