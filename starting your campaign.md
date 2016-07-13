@@ -70,3 +70,46 @@ The Community Manager’s responsibilities include:
  - Developing the overall communication strategy for the campaign
  - Promoting the campaign throughout the organization
  - Managing online communities related to the campaign
+
+# Setting a Budget
+
+# Selecting your Audience
+
+# Choosing a Campaign Mode and Duration
+
+## Deciding Between Fund2Goal and TopX
+
+## Deciding betwee Event-Based and Continuous
+
+# Developing a Timeline
+
+# Setting Requirements
+
+After running several ifundIT campaigns across our entire organization, we’ve learned that communicating a clear set of requirements to both innovators and investors is essential to ensure that all stakeholders get what they want out of the campaign. Below, you will find the most recent iteration of our requirements for campaign participants, as well as some information about the experiences that led to their creation.
+
+## Requirements for Innovators
+
+We found varying levels of commitment from innovators during our first IBM wide campaign in 2014. Some innovators were extremely committed to sticking with their ideas from submission to user deployment, but many were not. We found that some people got their ideas funded and then expected us to take over development. Others participated during the development process, but would not be responsive when we asked them to take actions, such as reviewing designs or code. Our team ended up having to make decisions or take actions on behalf of the innovator because they weren’t engaged and were holding up development and other projects. 
+
+Based on our experience, we created the following requirements for the Spring into Bluemix campaign in 2015:
+
+- **Commit** to the project implementation schedule, and promptly communicate schedule limitations or conflicts 
+- **Be responsive** and respect deadlines by answering questions, reviewing designs, and testing builds when expected 
+- **Post project updates** for your investors, followers, and volunteers on a regular basis
+- **Own your project** and stay with it through the entire lifecycle. If you are unable to stay with the project, it is your responsibility to find someone to take on the work 
+- **Promote** your completed project to the community
+
+If you do not comply with these requirements during the life cycle of your project, you will lose your funding.
+
+## Requirements for Investors
+
+During the first campaign, it was easy to get enough people to support your idea and get it funded quickly. But, was the crowd funding the “right” ideas for the business? We saw too many investors putting money down and then walking away, not asking where the apps were that they funded with company money. We wanted to make sure people understood this was real money and that people should be thoughtful in spending.  
+
+Based on our experience, we created the following investor requirements for the Spring into Bluemix campaign in 2015:
+
+- **Invest** in the projects that will really make a difference to your colleagues and the company
+- **Drive the consensus** among the investor community on whether the app is a good idea or not 
+- **Treat the money** as if it were your own. Ask yourself: “would I really put real money down on that app to get built? Would it make a difference to me as an investor?”
+- **Spread your funding** between multiple projects, and if you don’t find projects that are worth investing in, don’t spend the money
+- **Question the innovator.** If you’re not sure what value a project will bring, ask them for more information on how this will benefit the company
+- **Follow up** with the innovator for status updates if their project gets funded. Ask them if you see early designs, how their schedule’s looking, show personal interest in their project – you gave them your investment, after all! You’re putting real money down, which makes you a stakeholder in their project’s success
