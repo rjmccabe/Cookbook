@@ -2,7 +2,7 @@
 
 The ifundIT program has helped IBM boost employee engagement, drive cultural transformation, and disrupt conventional corporate decision-making. However, it’s also generated some incredible projects that have resulted in new apps, services, and policies that continue to grow and make an impact at IBM. 
 
-Here we’ve highlighted some of the most successful projects that have come out of ifundIT campaigns. They represent quite a diverse slice of the total funded projects, but they all share a defining trait: the fact that the support of the crowd enabled them to overcome obstacles that would have prevented them from being adopted in conventional business funding model.
+Here we’ve highlighted some of the most successful projects that have come out of ifundIT campaigns. They represent quite a diverse slice of the total funded projects, but they all share a defining trait: the support of the crowd enabled them to overcome obstacles that would have prevented them from being adopted in a conventional business funding model.
 
 We hope that these examples will give you some insight into both the power of ifundIT to generate solutions as well as the variety of forms those solutions can take.
 
