@@ -1,6 +1,6 @@
 # ifundIT Success Stories
 
-The ifundIT program has helped IBM boost employee engagement, drive cultural transformation, and disrupt conventional corporate decision-making. It’s also generated some incredible projects that have resulted in new apps, services, and policies that continue to grow and make an impact at IBM. 
+The ifundIT program has helped IBM boost employee engagement, drive cultural transformation, and disrupt conventional corporate decision-making. It’s also generated some incredible projects that have resulted in new apps, services, and policies that continue to grow and make an impact at IBM. In fact, the recent Cognitive Build ifundIT campaign is already considered one of the most successful ever, even though its funded projects are still in their infancy.
 
 Here we’ve highlighted some of the most successful projects that have come out of ifundIT campaigns. They represent quite a diverse slice of the total funded projects, but they all share a defining trait: the support of the crowd enabled them to overcome obstacles that would have prevented them from being adopted in a conventional business funding model.
 
@@ -8,7 +8,7 @@ We hope that these examples will give you some insight into both the power of if
 
 ## ACE: Appreciation, Coaching, and Evaluation
 
-ACE, which stands for Appreciation, Coaching, and Evaluation, is an internal feedback and evaluation platform that sits at the heart of IBM’s recent Agile transformation. It allows IBMers to solicit from and provide feedback to managers, teammates, and colleagues at the touch of a button. Envisioned as part of IBM's global updated performance review process, ACE encourages an Agile process of continual self-reflection and improvement.
+ACE, which stands for Appreciation, Coaching, and Evaluation, is an internal feedback and evaluation platform that supported IBM’s recent Agile transformation. It allows IBMers to solicit from and provide feedback to managers, teammates, and colleagues at the touch of a button. Envisioned as part of IBM's global updated performance review process, ACE encourages an Agile process of continual self-reflection and improvement.
 
 ACE began its relationship with ifundIT in 2015, during the Spring into Bluemix campaign. Since ACE was already available as a web app, the ACE team submitted a project for a mobile app they had been working on. Their project was funded through ifundIT, and as a result completed development of the app. Now, the entire platform – web and mobile app together – are part of IBM’s global strategy for its review system.
 
@@ -17,13 +17,6 @@ ACE began its relationship with ifundIT in 2015, during the Spring into Bluemix 
 Call In is a mobile app that takes IBMers from calendar invite to conference call in seconds. The app syncs with the native calendar app on iOS and IBM Verse or IBM Traveler on Android to allow users to join conference calls on their mobile phones directly from a meeting invite or calendar event.
 
 Call In came into the 2014 Mobile ifundIT campaign with an existing and functional mobile app, so their project focused on using the funds from their project to incorporate new features such as One Touch, context information, and Blue Pages participant links.
-
-
-## Global Extended Teams
-
-Global Extended Teams is a web tool for creating and viewing true functional reporting chains between employees, and showing extended teams across borders. It allows users to add and modify relationships between “Functional Managers” and “Functional Reportees” across the globe in order to facilitate work assignments and increased performance, while local managers handle legal and HR relationships in the employee’s country.
-
-Global Extended Teams was initially developed as a proof of concept, but unfortunately did not receive any funding to progress into a true pilot phase. The team submitted a project during the 2012 ifundIT campaign, and its success there gave them the funding they needed to develop the platform for use. The resulting tool was so popular that it was integrated into IBM BluePages.
 
 ## ParkUp
 
