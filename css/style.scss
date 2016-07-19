@@ -1,4 +1,5 @@
 ---
+// Front Matter here tells Jekyll to compile this into /_site/css
 ---
 
 //CSS goes here
@@ -6,6 +7,9 @@
 	color: green;
 }
 
+//
+// Sticky Footer Code; may cause problems in IE
+//
 body {
   display: flex;
   min-height: 100vh;
@@ -16,6 +20,9 @@ main {
   flex: 1 0 auto;
 }
 
+//
+// Chapter Page Layout Styles
+//
 .chapter-banner {
 	min-height: 30vh;
 }
