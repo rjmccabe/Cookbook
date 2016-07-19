@@ -2,6 +2,16 @@
 ---
 
 //CSS goes here
-.red-text {
-	color: red;
+.my-green-text {
+	color: green;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
