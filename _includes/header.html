@@ -4,11 +4,22 @@
       <a href="#!" class="brand-logo">Logo</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
-        {% for page in site.pages %}
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+          {% if p.navigation_weight %}
+            <li>
+              <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+              {{ p.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+
+        <!-- {% for page in site.pages %}
           {% if page.title %}
             <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="#">Link 1</a></li>
