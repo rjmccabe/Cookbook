@@ -1,7 +1,7 @@
 <header>  
   <nav>
     <div class="nav-wrapper">
-      <a href="#!" class="brand-logo">Logo</a>
+      <a href="{{ site.baseurl }}/" class="brand-logo">Logo</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
