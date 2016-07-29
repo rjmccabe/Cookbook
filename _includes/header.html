@@ -1,14 +1,14 @@
 <header>  
   <nav>
     <div class="nav-wrapper">
-      <a href="{{ site.baseurl }}/" class="brand-logo">Logo</a>
+      <a href="{{ site.baseurl }}/{{ p.url }}" class="brand-logo">Logo</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
         {% for p in navigation_pages %}
           {% if p.navigation_weight %}
             <li {% if p.url == page.url %}class="active"{% endif %} >
-              <a href="{{ p.url }}">
+              <a href="{{ site.baseurl }}/{{ p.url }}/test">
               {{ p.title }}
               </a>
             </li>
@@ -24,3 +24,4 @@
     </div>
   </nav>          
 </header>
+
