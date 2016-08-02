@@ -3,7 +3,7 @@
     <div class="nav-wrapper">
       <a href="{{ site.baseurl }}/" class="brand-logo">ifundIT Cookbook</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-      <ul class="right hide-on-med-and-down">
+      <ul class="right hide-on-med-and-down li_none">
         {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
         {% for p in navigation_pages %}
           {% if p.navigation_weight %}
@@ -15,7 +15,7 @@
           {% endif %}
         {% endfor %}
       </ul>
-      <ul class="side-nav" id="mobile-demo">
+      <ul class="side-nav li_none" id="mobile-demo">
         <li><a href="#">Link 1</a></li>
         <li><a href="#">Link 2</a></li>
         <li><a href="#">Link 3</a></li>
