@@ -5,6 +5,10 @@
 //
 // Typography
 //
+
+// The reason for setting default lists to show bullets
+// is that content authors are not able to add classes to uls that they create
+
 ul li {
 	list-style: disc inside;
 }
