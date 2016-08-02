@@ -1,8 +1,16 @@
 ---
 ---
 //CSS goes here
-.my-green-text {
-	color: green;
+
+//
+// Typography
+//
+ul li {
+	list-style: disc inside;
+}
+
+.li_none li {
+	list-style: none;
 }
 
 //
@@ -16,13 +24,6 @@ body {
 
 main {
   flex: 1 0 auto;
-}
-
-//
-// Table of Contents side nav
-//
-.table-of-contents li {
-	list-style: none;
 }
 
 //
