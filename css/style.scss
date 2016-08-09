@@ -49,6 +49,16 @@ main {
 	min-height: 75vh;
 	justify-content: center;
 	background: no-repeat center/cover url({{ site.baseurl }}/images/unsplash-wireframing.jpg);
+	h1 {
+		font-weight: 700;
+	}
+}
+@media screen and (max-width: 600px) {
+	#homeHeroSection {
+		h1 {
+			font-size: 2em;
+		}
+	}
 }
 
 #homeBlurb,
