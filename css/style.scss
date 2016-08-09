@@ -46,7 +46,7 @@ main {
 // Homepage Layout Styles
 //
 #homeHeroSection {
-	height: 75vh;
+	min-height: 75vh;
 	justify-content: center;
 	background: no-repeat center/cover url({{ site.baseurl }}/images/unsplash-wireframing.jpg);
 }
