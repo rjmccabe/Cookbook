@@ -46,7 +46,8 @@ main {
 	background: no-repeat center/cover url({{ site.baseurl }}/images/unsplash-wireframing.jpg);
 }
 
-#homeBlurb {
+#homeBlurb,
+#homeContact {
 	padding: 20px 0;
 }
 
