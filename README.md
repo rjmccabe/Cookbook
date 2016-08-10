@@ -1,2 +1,2 @@
-# Cookbook
-Let's clean this thing out
+# ifundIT Cookbook
+The live site can be seen at https://rjmccabe.github.io/Cookbook/
