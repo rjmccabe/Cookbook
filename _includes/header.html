@@ -1,0 +1,33 @@
+<header>  
+  <nav class="red lighten-2">
+    <div class="nav-wrapper">
+      <a href="{{ site.baseurl }}/" class="brand-logo">ifundIT Cookbook</a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down ul_li_none text-capitalize">
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+          {% if p.navigation_weight %}
+            <li {% if p.url == page.url %}class="active"{% endif %} >
+              <a href="{{ site.baseurl }}{{ p.url }}">
+              {{ p.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="side-nav ul_li_none" id="mobile-demo">
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+          {% if p.navigation_weight %}
+            <li {% if p.url == page.url %}class="active"{% endif %} >
+              <a href="{{ site.baseurl }}{{ p.url }}">
+              {{ p.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>          
+</header>
+
