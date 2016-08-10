@@ -16,11 +16,15 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Compiled and minified Materialize JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+    <!-- Sticky TOC -->
+    <script src="js/jquery.sticky.js"></script>
 
     <script>
  $(document).ready(function(){
    // Activate the side menu 
    $(".button-collapse").sideNav();
+   $('.scrollspy').scrollSpy();
+   $("#sidebar-TOC").sticky({topSpacing:0});
   });
 </script>
   </body>
