@@ -17,13 +17,27 @@
 // Typography
 //
 
-p, #content > ul {
-	font-size: 18px;
-	font-weight: 300;
-}
 .text-capitalize {
 	text-transform: capitalize;
 }
+// Body copy styles for chapter pages
+p, #content > ul {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 2.2rem;
+	letter-spacing: 0.035em;
+}
+
+h2 {
+	font-size: 3.0rem;
+}
+h3 {
+	font-size: 2.5rem;
+}
+h4 {
+	font-size: 2.2rem;
+}
+
 // The reason for setting default lists to show bullets
 // is that content authors are not able to add classes to uls that they create
 ul {
